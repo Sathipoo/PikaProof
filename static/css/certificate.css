@@ -1,0 +1,35 @@
+body {
+    font-family: 'Playfair Display', serif;
+    background: #f8f9fa;
+    padding: 20px;
+}
+.certificate {
+    width: 800px;
+    margin: 0 auto;
+    padding: 40px;
+    background: #fff;
+    border: 10px solid #e0e0e0;
+    text-align: center;
+}
+.logo {
+    max-width: 200px;
+    margin-bottom: 20px;
+}
+.title {
+    font-family: 'Great Vibes', cursive;
+    font-size: 48px;
+    margin-bottom: 10px;
+}
+.name {
+    font-size: 32px;
+    margin: 20px 0;
+}
+.signature {
+    margin-top: 40px;
+}
+.issuer-title {
+    font-style: italic;
+}
+.issue-date {
+    margin-top: 20px;
+}
